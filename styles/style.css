@@ -144,7 +144,7 @@
 .lots {
     display: flex;
     flex-direction: column;
-    margin: 180px 24px 0px 24px;
+    margin: 180px 24px 86px 24px;
 }
 
 .lots .title {
@@ -258,6 +258,7 @@
     line-height: 24px;
     margin-left: 25px;
     margin-right: 25px;
+
 }
 
 .about p:nth-of-type(1){
