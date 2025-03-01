@@ -2,15 +2,14 @@
     display: grid;
     grid-template-columns: 1fr min-content 1fr;
     align-items: center;
-    padding: 92px 50px 96px 50px;
-    margin:0;
+    padding:92px 50px 96px 50px;
 }
 
 .header-menu {
     display: flex;
     font-family: Raleway, sans-serif;
     font-size: 18px;
-    gap: 33px;
+    gap: 32.5px;
 }
 
 .menu-main {
