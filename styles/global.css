@@ -31,6 +31,8 @@ blockquote {
 
 a {
   color: inherit;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 4px;
 }
 
 img {
@@ -39,9 +41,4 @@ img {
 
 button {
   font: inherit;
-}
-
-a {
-  text-decoration-thickness: 1px;
-  text-underline-offset: 4px;
 }

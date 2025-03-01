@@ -170,7 +170,7 @@
     background-size: cover;
 }
 
-.cards li a{
+.cards li a {
     height: 100%;
 }
 
@@ -241,7 +241,7 @@
     border-radius: 50%;
     margin: 70px 0px 0px 47px;
 }
-.about .logo img{
+.about .logo img {
     width: 148px;
     height: 114px;
 }
@@ -261,10 +261,10 @@
 
 }
 
-.about p:nth-of-type(1){
+.about p:nth-of-type(1) {
     margin-bottom: 24px;
 }
-.about p:nth-of-type(2){
+.about p:nth-of-type(2) {
     margin-right: 0px;
 }
 
